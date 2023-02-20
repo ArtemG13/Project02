@@ -6,7 +6,7 @@ namespace Project02
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hbdgfdhffdh");
+            Console.WriteLine("Я тут еще раз попробовал и получилось");
         }
     }
 }
