@@ -1,0 +1,7 @@
+C:\Code\Новая папка\Project02\Project02\bin\Debug\Project02.exe.config
+C:\Code\Новая папка\Project02\Project02\bin\Debug\Project02.exe
+C:\Code\Новая папка\Project02\Project02\bin\Debug\Project02.pdb
+C:\Code\Новая папка\Project02\Project02\obj\Debug\Project02.csproj.AssemblyReference.cache
+C:\Code\Новая папка\Project02\Project02\obj\Debug\Project02.csproj.CoreCompileInputs.cache
+C:\Code\Новая папка\Project02\Project02\obj\Debug\Project02.exe
+C:\Code\Новая папка\Project02\Project02\obj\Debug\Project02.pdb
