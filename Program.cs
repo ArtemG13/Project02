@@ -1,9 +1,12 @@
-﻿namespace Project02
+﻿using System;
+
+namespace Project02
 {
     class Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hbdgfdhffdh");
         }
     }
 }
