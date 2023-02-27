@@ -8,10 +8,13 @@ namespace Project02
         {
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Welcome to the Duck Park!");
-            Console.ForegroundColor = ConsoleColor.Red; // Так и не понял как покрасить конкретное число :( //
             int number = 12;
             Console.ForegroundColor = ConsoleColor.White;
-            Console.WriteLine($"Нас уже {number} человек!");
+            Console.Write("Нас уже ");
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.Write(number);
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.WriteLine(" человек!");
             Console.WriteLine("Будем рады видеть вас.");
             Console.WriteLine("Приложение находиться в разработке.");
             Console.WriteLine("Введите имя: ");
@@ -19,6 +22,8 @@ namespace Project02
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine($"Привет учитель! {name}");
             Console.ResetColor();
+            Console.WriteLine("Нажмите любую кнопку чтобы выйти…");
+            Console.ReadLine();
         }
     }
 }
